@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="135" viewBox="0 0 110 135">
+  <g id="Grupo_9" data-name="Grupo 9" transform="translate(-126 -8)">
+    <g id="Grupo_8" data-name="Grupo 8" transform="translate(43 -4)" opacity="0.89">
+      <g id="Grupo_7" data-name="Grupo 7" transform="translate(101.333 45.772)">
+        <text id="DF" transform="translate(0.667 30.228)" fill="#3a251a" font-size="21" font-family="GreatDayBoldPersonalUse, Great Day Personal Use"><tspan x="0" y="0">DF</tspan></text>
+        <text id="DF-2" data-name="DF" transform="translate(0.667 30.228)" fill="#3a251a" font-size="21" font-family="GreatDayBoldPersonalUse, Great Day Personal Use"><tspan x="0" y="0">DF</tspan></text>
+        <text id="DF-3" data-name="DF" transform="translate(0.667 30.228)" fill="#3a251a" font-size="21" font-family="GreatDayBoldPersonalUse, Great Day Personal Use"><tspan x="0" y="0">DF</tspan></text>
+        <text id="DF-4" data-name="DF" transform="translate(-0.333 30.228)" fill="#3a251a" font-size="21" font-family="GreatDayBoldPersonalUse, Great Day Personal Use"><tspan x="0" y="0">DF</tspan></text>
+        <text id="DF-5" data-name="DF" transform="translate(2.667 30.228)" fill="#3a251a" font-size="21" font-family="GreatDayBoldPersonalUse, Great Day Personal Use"><tspan x="0" y="0">DF</tspan></text>
+        <text id="DF-6" data-name="DF" transform="translate(1.667 30.228)" fill="#3a251a" font-size="21" font-family="GreatDayBoldPersonalUse, Great Day Personal Use"><tspan x="0" y="0">DF</tspan></text>
+      </g>
+      <g id="Grupo_6" data-name="Grupo 6" transform="translate(83 12)">
+        <g id="Elipse_1" data-name="Elipse 1" transform="translate(9 9)" fill="none" stroke="#3a251a" stroke-width="5">
+          <circle cx="46" cy="46" r="46" stroke="none"/>
+          <circle cx="46" cy="46" r="43.5" fill="none"/>
+        </g>
+        <g id="Elipse_2" data-name="Elipse 2" fill="none" stroke="#3a251a" stroke-width="5">
+          <circle cx="55" cy="55" r="55" stroke="none"/>
+          <circle cx="55" cy="55" r="52.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="Dro._Fulano" data-name="Dro. Fulano" transform="translate(132 139)" fill="#3a251a" font-size="18" font-family="FuturaBT-Medium, Futura Md BT" font-weight="500" opacity="0.9"><tspan x="0" y="0">Dro. Fulano</tspan></text>
+  </g>
+</svg>

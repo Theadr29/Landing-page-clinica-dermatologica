@@ -1,0 +1,48 @@
+.logo{
+    position: relative;
+    top: 50px;
+    margin: 48px;
+    padding: 0;
+}
+.menu{
+    font-family: Futura Md BT, Medium, Helvetica, sans-serif;
+    font-size: 28px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E0B8A6;
+    position: relative;
+    top: -87px;
+}
+.menu li{
+    display: inline;
+}
+.menu li a{
+    color:#3A251A;
+    opacity: 90%;
+    padding: 40px;
+    text-decoration: none;
+    outline: none;
+    display: inline;
+    position: relative;
+    top: -120px;
+    left: 777px
+}
+
+.container{
+    height: 933px;
+    background-image: url("../Imagens/Grupo\ 19.svg");
+    position: relative;
+    top: -873px;
+    margin: 0px;
+    padding: 0px;
+    max-width: 300%;
+}
+
+.legenda{
+    font-family: Aptly, Helvetica, sans-serif;
+    font-size: 100px;
+    margin: 48px;
+    position: relative;
+    top: -100px;
+}
